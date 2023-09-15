@@ -1,6 +1,6 @@
 ![Thumbnail GitHub](https://github.com/alura-cursos/flutter_webapi_first_course/raw/main/thumbnail01.png)
 
-Repositório do Curso de Flutter com Web API - Integrando sua Aplicação, da Alura. 
+Repositório de Projeto feito em desafio do Curso de Flutter com Web API - Integrando sua Aplicação, da Alura. 
 
 ## ✔️ Técnicas e tecnologias
 
